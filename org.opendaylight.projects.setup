@@ -1653,8 +1653,8 @@
         xsi:type="git:GitCloneTask"
         id="git.clone.empty"
         location="${git.clone.opendaylight.ROOT.location/empty}"
-        remoteURI="https://github.com/vorburger/empty.git">
-      <description>git clone https://github.com/vorburger/empty.git</description>
+        remoteURI="https://github.com/fjezak/empty.git">
+      <description>git clone https://github.com/fjezak/empty.git</description>
     </setupTask>
     <stream
         name="master"/>
